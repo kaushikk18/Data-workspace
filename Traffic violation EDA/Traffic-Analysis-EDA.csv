@@ -1,0 +1,126 @@
+Timestamp,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22
+3/25/2022 11:44,20,Male,Single,4,Two wheeler(Scooter),> 70 kmph,No,Yes,No,Yes,Yes,Day,No,Yes,Yes,No,Yes,No,Yes,Yes,Night,Yes
+3/25/2022 14:18,20,Male,Single,3,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,No,Night,No,Yes,Yes,Yes,No,No,Yes,Yes,Night,No
+3/25/2022 14:19,20,Male,Single,1,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,No,Yes,No,No,No,No,Night,No
+3/25/2022 14:46,19,Female,Single,4,Two wheeler(Scooter),< 40 kmph,Yes,Yes,Yes,Yes,Yes,Day,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Night,Yes
+3/25/2022 18:39,19,Male,Single,5,Two wheeler(Scooter),< 40 kmph,No,Yes,No,Yes,No,Day,No,Yes,No,Yes,No,No,No,Yes,Night,No
+3/26/2022 13:44,18,Male,Single,6,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,No,Yes,Yes,Night,No,Yes,Yes,Yes,No,Yes,Yes,No,Night,Yes
+3/26/2022 14:11,20,Male,Single,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Night,Yes
+3/26/2022 14:16,21,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,No,No,No,Yes,Night,No,Yes,Yes,Yes,No,No,No,Yes,Night,No
+3/26/2022 14:18,20,Female,Single,3,Four wheeler,> 70 kmph,No,Yes,Yes,No,No,Day,No,No,Yes,Yes,No,No,Yes,Yes,Day,Yes
+3/26/2022 15:06,22,Female,Single,3,Four wheeler,40 - 70 kmph,No,Yes,Yes,No,Yes,Night,No,No,No,Yes,No,No,No,No,Night,No
+3/26/2022 15:06,22,Male,Single,5,Four wheeler,< 40 kmph,Yes,No,No,No,Yes,Day,No,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 15:22,22,Male,Single,4,Four wheeler,< 40 kmph,Yes,Yes,Yes,No,Yes,Day,No,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 15:24,20,Male,Single,9,Four wheeler,< 40 kmph,Yes,Yes,Yes,No,Yes,Day,No,Yes,No,Yes,No,Yes,No,Yes,Day,Yes
+3/26/2022 15:35,20,Male,Single,3,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Night,Yes
+3/26/2022 15:45,20,Female,Single,3,Two wheeler(Scooter),40 - 70 kmph,No,Yes,Yes,No,Yes,Night,Yes,Yes,Yes,Yes,Yes,No,No,No,Night,Yes
+3/26/2022 15:49,20,Female,Single,3,Two wheeler(Scooter),40 - 70 kmph,No,Yes,Yes,Yes,Yes,Night,Yes,Yes,Yes,Yes,No,No,No,Yes,Night,No
+3/26/2022 15:53,19,Male,Single,4,Two wheeler(Bike),< 40 kmph,No,Yes,Yes,No,Yes,Night,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Day,Yes
+3/26/2022 15:54,20,Female,Single,3,Two wheeler(Scooter),40 - 70 kmph,No,Yes,No,No,Yes,Day,Yes,Yes,Yes,Yes,Yes,No,No,No,Day,Yes
+3/26/2022 16:41,19,Male,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,No,Night,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Night,Yes
+3/26/2022 17:27,20,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,No,Yes,No,No,Yes,Night,Yes,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 17:32,18,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,No,Yes,Day,No,No,No,Yes,No,No,No,No,Day,No
+3/26/2022 19:01,20,Male,Single,4,Four wheeler,< 40 kmph,Yes,No,No,No,Yes,Night,Yes,Yes,Yes,Yes,Yes,No,No,No,Night,Yes
+3/26/2022 19:07,21,Male,Single,4,Four wheeler,40 - 70 kmph,Yes,No,No,No,Yes,Day,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Day,No
+3/26/2022 19:16,27,Female,Single,4,Four wheeler,40 - 70 kmph,No,Yes,No,No,Yes,Day,Yes,No,No,No,No,No,No,No,Night,Yes
+3/26/2022 19:20,19,Male,Single,2,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,Yes,Yes,No,No,No,Yes,Day,Yes
+3/26/2022 19:21,47,Male,Married,4,Two wheeler(Bike),> 70 kmph,Yes,No,No,No,No,Day,No,No,No,No,No,No,Yes,No,Day,Yes
+3/26/2022 19:22,20,Male,Single,4,Two wheeler(Bike),> 70 kmph,Yes,No,No,No,Yes,Day,No,No,No,No,Yes,,No,No,Day,Yes
+3/26/2022 19:32,20,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,No,Yes,Yes,Yes,Day,No,No,No,No,No,No,No,No,Night,No
+3/26/2022 19:37,20,Male,Single,2,Two wheeler(Scooter),< 40 kmph,No,Yes,Yes,Yes,Yes,Day,Yes,Yes,Yes,Yes,No,No,Yes,No,Day,Yes
+3/26/2022 19:37,19,Male,Single,3,Two wheeler(Scooter),40 - 70 kmph,Yes,No,No,No,Yes,Day,No,No,No,Yes,No,No,No,No,Day,Yes
+3/26/2022 19:40,21,Female,Single,6,Four wheeler,< 40 kmph,No,Yes,No,No,No,Day,Yes,Yes,No,No,No,Yes,Yes,No,Night,No
+3/26/2022 19:40,20,Male,Single,5,Two wheeler(Bike),< 40 kmph,No,No,No,No,Yes,Day,No,No,Yes,Yes,No,No,No,No,Night,Yes
+3/26/2022 20:08,21,Male,Single,4,Four wheeler,40 - 70 kmph,Yes,Yes,No,No,Yes,Night,Yes,No,Yes,Yes,No,No,Yes,No,Night,Yes
+3/26/2022 20:13,20,Male,Single,4,Two wheeler(Bike),> 70 kmph,No,No,No,No,Yes,Day,Yes,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 20:20,46,Male,Married,5,Two wheeler(Bike),< 40 kmph,Yes,No,No,No,Yes,Day,No,No,No,Yes,Yes,No,No,No,Night,Yes
+3/26/2022 23:22,22,Male,Single,3,Two wheeler(Bike),40 - 70 kmph,Yes,No,No,No,Yes,Night,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Night,Yes
+3/26/2022 23:35,19,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,No,No,Yes,Day,Yes,No,Yes,Yes,Yes,No,Yes,No,Night,Yes
+3/27/2022 0:27,19,Male,Single,5,Two wheeler(Scooter),> 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,No,No,Day,Yes
+3/27/2022 8:29,21,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,Yes,Yes,Day,Yes,No,No,Yes,No,No,No,No,Night,No
+3/27/2022 8:58,21,Male,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,No,No,No,Yes,Day,No,No,No,No,No,No,Yes,No,Day,Yes
+3/27/2022 9:04,20,Female,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,No,Yes,No,No,Day,No,Yes,No,Yes,No,No,No,No,Day,Yes
+3/27/2022 10:03,22,Male,Single,3,Two wheeler(Scooter),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,No,No,Yes,Yes,Yes,No,No,No,Neither,Yes
+3/27/2022 10:07,20,Male,Single,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,No,No,Night,Yes
+3/27/2022 10:51,20,Male,Single,5,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,Yes,No,Neither,No
+3/27/2022 12:09,52,Male,Married,4,Two wheeler(Scooter),< 40 kmph,No,No,No,No,No,Day,No,No,No,No,No,No,No,No,Neither,No
+3/27/2022 12:11,20,Female,Single,4,Two wheeler(Scooter),< 40 kmph,Yes,Yes,No,No,Yes,Day,No,No,No,Yes,No,No,No,No,Neither,No
+3/27/2022 13:47,20,Male,Single,3,Two wheeler(Bike),40 - 70 kmph,No,No,Yes,No,No,Day,No,Yes,No,Yes,Yes,No,No,No,Neither,Yes
+3/27/2022 15:10,20,Female,Single,13,Four wheeler,40 - 70 kmph,Yes,No,No,No,Yes,Night,No,No,Yes,Yes,No,No,No,No,Neither,No
+3/27/2022 18:19,21,Male,Single,5,Two wheeler(Scooter),< 40 kmph,Yes,Yes,No,No,No,Day,Yes,Yes,No,Yes,No,No,No,Yes,Night,No
+3/27/2022 19:32,Pranavan ,Male,Single,8,Two wheeler(Scooter),40 - 70 kmph,Yes,No,No,No,No,Day,Yes,No,No,Yes,No,No,No,No,Neither,No
+3/27/2022 19:39,21,Female,Married,5,Four wheeler,40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,Yes,No,Neither,Yes
+04-02-2022 21:28,21,Male,Single,4,Four wheeler,40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,No,No,Yes,No,No,No,No,Neither,No
+04-02-2022 21:35,24,Male,Single,3,Four wheeler,40 - 70 kmph,Yes,Yes,Yes,No,Yes,Night,No,Yes,Yes,No,Yes,No,Yes,No,Night,Yes
+04-02-2022 21:39,22,Male,Married,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,Yes,Yes,Day,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Neither,Yes
+04-02-2022 23:14,25,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,No,Yes,Yes,Day,No,Yes,No,Yes,No,No,No,Yes,Neither,Yes
+04-02-2022 23:35,20,Male,Single,4,Four wheeler,40 - 70 kmph,No,Yes,No,No,Yes,Day,Yes,Yes,No,Yes,No,Yes,No,Yes,Night,No
+04-03-2022 09:44,19,Female,Single,4,Two wheeler(Scooter),< 40 kmph,No,No,No,No,Yes,Day,Yes,No,No,No,No,No,No,No,Neither,Yes
+04-03-2022 12:38,20,Male,Single,4,Four wheeler,< 40 kmph,Yes,Yes,No,No,No,Day,No,No,No,No,No,No,No,No,Neither,Yes
+3/25/2022 11:44,20,Female,Single,4,Two wheeler(Scooter),> 70 kmph,No,Yes,No,Yes,Yes,Day,No,Yes,Yes,No,Yes,No,Yes,Yes,Night,Yes
+3/25/2022 14:18,20,Male,Single,3,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,No,Night,No,Yes,Yes,Yes,No,No,Yes,Yes,Night,No
+3/25/2022 14:19,20,Male,Single,1,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,No,Yes,No,No,No,No,Night,No
+3/25/2022 14:46,19,Female,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,Yes,Yes,Yes,Day,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Night,No
+3/25/2022 18:39,19,Male,Single,5,Two wheeler(Scooter),< 40 kmph,No,Yes,No,Yes,No,Day,No,Yes,No,Yes,No,No,No,Yes,Night,No
+3/26/2022 13:44,18,Female,Single,6,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,No,Yes,Yes,Night,No,Yes,Yes,Yes,No,Yes,Yes,No,Night,Yes
+3/26/2022 14:11,20,Female,Single,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Night,Yes
+3/26/2022 14:16,21,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,No,No,No,Yes,Night,No,Yes,Yes,Yes,No,No,No,Yes,Night,No
+3/26/2022 14:18,20,Female,Single,3,Four wheeler,> 70 kmph,No,Yes,Yes,No,No,Day,No,No,Yes,Yes,No,No,Yes,Yes,Day,Yes
+3/26/2022 15:06,20,Female,Single,3,Four wheeler,< 40 kmph,No,Yes,Yes,No,Yes,Night,No,No,No,Yes,No,No,No,No,Night,No
+3/26/2022 15:06,20,Male,Single,5,Four wheeler,40 - 70 kmph,Yes,No,No,No,Yes,Day,No,No,Yes,Yes,No,No,No,No,Day,No
+3/26/2022 15:22,20,Male,Single,4,Four wheeler,< 40 kmph,Yes,Yes,Yes,No,Yes,Day,No,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 15:24,22,Female,Single,9,Four wheeler,< 40 kmph,Yes,Yes,Yes,No,Yes,Day,No,Yes,No,Yes,No,Yes,No,Yes,Day,Yes
+3/26/2022 15:35,22,Male,Single,3,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Night,Yes
+3/26/2022 15:45,20,Female,Single,3,Two wheeler(Scooter),< 40 kmph,No,Yes,Yes,No,Yes,Night,Yes,Yes,Yes,Yes,Yes,No,No,No,Night,Yes
+3/26/2022 15:49,20,Female,Single,3,Two wheeler(Scooter),40 - 70 kmph,No,Yes,Yes,Yes,Yes,Night,Yes,Yes,Yes,Yes,No,No,No,Yes,Night,No
+3/26/2022 15:53,19,Male,Single,4,Two wheeler(Bike),< 40 kmph,No,Yes,Yes,No,Yes,Night,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Day,Yes
+3/26/2022 15:54,20,Female,Single,3,Two wheeler(Scooter),40 - 70 kmph,No,Yes,No,No,Yes,Day,Yes,Yes,Yes,Yes,Yes,No,No,No,Day,No
+3/26/2022 16:41,19,Male,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,No,Night,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Night,No
+3/26/2022 17:27,20,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,No,Yes,No,No,Yes,Night,Yes,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 17:32,18,Female,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,No,Yes,Day,No,No,No,Yes,No,No,No,No,Day,No
+3/26/2022 19:01,20,Female,Single,4,Four wheeler,< 40 kmph,Yes,No,No,No,Yes,Night,Yes,Yes,Yes,Yes,Yes,No,No,No,Night,Yes
+3/26/2022 19:07,21,Male,Single,4,Four wheeler,40 - 70 kmph,Yes,No,No,No,Yes,Day,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Day,No
+3/26/2022 19:16,27,Female,Single,4,Four wheeler,40 - 70 kmph,No,Yes,No,No,Yes,Day,Yes,No,No,No,No,No,No,No,Night,No
+3/26/2022 19:20,19,Male,Single,2,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,Yes,Yes,No,No,No,Yes,Day,Yes
+3/26/2022 19:21,47,Male,Married,4,Two wheeler(Bike),< 40 kmph,Yes,No,No,No,No,Day,No,No,No,No,No,No,Yes,No,Day,Yes
+3/26/2022 19:22,20,Female,Single,4,Two wheeler(Bike),< 40 kmph,Yes,No,No,No,Yes,Day,No,No,No,No,Yes,,No,No,Day,Yes
+3/26/2022 19:32,20,Female,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,No,Yes,Yes,Yes,Day,No,No,No,No,No,No,No,No,Night,No
+3/26/2022 19:37,20,Male,Single,2,Two wheeler(Scooter),< 40 kmph,No,Yes,Yes,Yes,Yes,Day,Yes,Yes,Yes,Yes,No,No,Yes,No,Day,Yes
+3/26/2022 19:37,19,Male,Single,3,Two wheeler(Scooter),40 - 70 kmph,Yes,No,No,No,Yes,Day,No,No,No,Yes,No,No,No,No,Day,Yes
+3/26/2022 19:40,21,Female,Single,6,Four wheeler,< 40 kmph,No,Yes,No,No,No,Day,Yes,Yes,No,No,No,Yes,Yes,No,Night,Yes
+3/26/2022 19:40,20,Male,Single,5,Two wheeler(Bike),< 40 kmph,No,No,No,No,Yes,Day,No,No,Yes,Yes,No,No,No,No,Night,No
+3/26/2022 20:08,21,Male,Single,4,Four wheeler,40 - 70 kmph,Yes,Yes,No,No,Yes,Night,Yes,No,Yes,Yes,No,No,Yes,No,Night,Yes
+3/26/2022 20:13,20,Male,Single,4,Two wheeler(Bike),< 40 kmph,No,No,No,No,Yes,Day,Yes,No,Yes,Yes,No,No,No,No,Day,Yes
+3/26/2022 20:20,46,Male,Married,5,Two wheeler(Bike),< 40 kmph,Yes,No,No,No,Yes,Day,No,No,No,Yes,Yes,No,No,No,Night,Yes
+3/26/2022 23:22,22,Male,Single,3,Two wheeler(Bike),40 - 70 kmph,Yes,No,No,No,Yes,Night,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Night,No
+3/26/2022 23:35,19,Female,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,No,No,Yes,Day,Yes,No,Yes,Yes,Yes,No,Yes,No,Night,Yes
+3/27/2022 0:27,19,Male,Single,5,Two wheeler(Scooter),< 40 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,No,No,Day,Yes
+3/27/2022 8:29,21,Female,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,Yes,Yes,Day,Yes,No,No,Yes,No,No,No,No,Night,No
+3/27/2022 8:58,21,Male,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,No,No,No,Yes,Day,No,No,No,No,No,No,Yes,No,Day,Yes
+3/27/2022 9:04,20,Female,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,No,Yes,No,No,Day,No,Yes,No,Yes,No,No,No,No,Day,Yes
+3/27/2022 10:03,20,Male,Single,3,Two wheeler(Scooter),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,No,No,Yes,Yes,Yes,No,No,No,Neither,Yes
+3/27/2022 10:07,20,Female,Single,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,No,No,Night,No
+3/27/2022 10:51,20,Male,Single,5,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,Yes,No,Neither,No
+3/27/2022 12:09,52,Male,Married,4,Two wheeler(Scooter),40 - 70 kmph,No,No,No,No,No,Day,No,No,No,No,No,No,No,No,Night,Yes
+3/27/2022 12:11,20,Female,Single,4,Two wheeler(Scooter),< 40 kmph,Yes,Yes,No,No,Yes,Day,No,No,No,Yes,No,No,No,No,Night,Yes
+3/27/2022 13:47,20,Male,Single,3,Two wheeler(Bike),< 40 kmph,No,No,Yes,No,No,Day,No,Yes,No,Yes,Yes,No,No,No,Neither,No
+3/27/2022 15:10,20,Female,Single,13,Four wheeler,40 - 70 kmph,Yes,No,No,No,Yes,Night,No,No,Yes,Yes,No,No,No,No,Neither,No
+3/27/2022 18:19,21,Male,Single,5,Two wheeler(Scooter),> 70 kmph,Yes,Yes,No,No,No,Day,Yes,Yes,No,Yes,No,No,No,Yes,Night,No
+3/27/2022 19:39,21,Female,Married,5,Four wheeler,40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,Yes,No,Yes,No,No,Yes,No,Neither,No
+04-02-2022 21:28,21,Male,Single,4,Four wheeler,40 - 70 kmph,Yes,Yes,No,No,Yes,Day,No,No,No,Yes,No,No,No,No,Neither,No
+04-02-2022 21:35,24,Male,Single,3,Four wheeler,40 - 70 kmph,Yes,Yes,Yes,No,Yes,Night,No,Yes,Yes,No,Yes,No,Yes,No,Night,No
+04-02-2022 21:39,22,Female,Married,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,Yes,Yes,Day,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Neither,Yes
+04-02-2022 23:14,25,Male,Single,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,No,Yes,Yes,Day,No,Yes,No,Yes,No,No,No,Yes,Neither,Yes
+04-02-2022 23:35,20,Female,Single,4,Four wheeler,40 - 70 kmph,No,Yes,No,No,Yes,Day,Yes,Yes,No,Yes,No,Yes,No,Yes,Night,No
+04-03-2022 09:44,19,Female,Single,4,Two wheeler(Scooter),> 70 kmph,No,No,No,No,Yes,Day,Yes,No,No,No,No,No,No,No,Neither,Yes
+04-03-2022 12:38,22,Male,Single,4,Four wheeler,< 40 kmph,Yes,Yes,No,No,No,Day,No,No,No,No,No,No,No,No,Neither,Yes
+3/25/2022 11:44,22,Male,Single,4,Two wheeler(Scooter),< 40 kmph,No,Yes,No,Yes,Yes,Day,No,Yes,Yes,No,Yes,No,Yes,Yes,Night,Yes
+3/25/2022 14:18,20,Male,Single,3,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,No,No,No,Night,No,Yes,Yes,Yes,No,No,Yes,Yes,Night,No
+3/25/2022 14:19,22,Male,Single,1,Two wheeler(Bike),40 - 70 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,No,Yes,No,No,No,No,Night,No
+3/25/2022 14:46,19,Female,Single,4,Two wheeler(Scooter),40 - 70 kmph,Yes,Yes,Yes,Yes,Yes,Day,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Night,Yes
+3/25/2022 18:39,19,Male,Single,5,Two wheeler(Scooter),< 40 kmph,No,Yes,No,Yes,No,Day,No,Yes,No,Yes,No,No,No,Yes,Night,Yes
+3/26/2022 13:44,18,Male,Single,6,Two wheeler(Bike),< 40 kmph,Yes,Yes,No,Yes,Yes,Night,No,Yes,Yes,Yes,No,Yes,Yes,No,Night,No
+3/26/2022 14:11,20,Female,Single,4,Two wheeler(Bike),< 40 kmph,Yes,Yes,Yes,No,Yes,Day,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Night,Yes
+3/26/2022 14:16,21,Male,Single,4,Two wheeler(Bike),40 - 70 kmph,Yes,No,No,No,Yes,Night,No,Yes,Yes,Yes,No,No,No,Yes,Night,No
+3/26/2022 14:18,22,Female,Single,3,Four wheeler,< 40 kmph,No,Yes,Yes,No,No,Day,No,No,Yes,Yes,No,No,Yes,Yes,Day,Yes
+3/26/2022 15:06,20,Female,Single,3,Four wheeler,40 - 70 kmph,No,Yes,Yes,No,Yes,Night,No,No,No,Yes,No,No,No,No,Night,No
